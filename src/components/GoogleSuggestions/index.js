@@ -34,7 +34,7 @@ class GoogleSuggestions extends Component {
             <div className = "app-container">
               <div className = "google-suggestions-container">
                 <img
-                  src = "https://assests.ccbp.in/frontend/react-js/google-logo.png"
+                  src = "https://assets.ccbp.in/frontend/react-js/google-logo.png"
                   alt = "google logo"
                   className = "google-logo"
                 />
@@ -43,7 +43,7 @@ class GoogleSuggestions extends Component {
                     <img
                       alt = "search icon"
                       className = "search-icon"
-                      src = "https://assests.ccbp.in/frontend/react-js/google-search-icon.png"
+                      src = "https://assets.ccbp.in/frontend/react-js/google-search-icon.png"
                     />
                     <input 
                       type = "search"
